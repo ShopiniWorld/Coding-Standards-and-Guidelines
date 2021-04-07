@@ -67,7 +67,8 @@ if() {
 
 ```
 
-
-
+### Resources: 
+https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
+https://en.wikipedia.org/wiki/Coding_conventions
 
 
